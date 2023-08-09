@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Code.iml" filepath="$PROJECT_DIR$/Java Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartPass/SmartPass.iml" filepath="$PROJECT_DIR$/SmartPass/SmartPass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyleadsScrapper/easyleadsScrapper.iml" filepath="$PROJECT_DIR$/easyleadsScrapper/easyleadsScrapper.iml" />
+    </modules>
+  </component>
+</project>
